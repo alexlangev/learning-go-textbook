@@ -1,3 +1,3 @@
-module alexlangev/leaning-go-textbook/chap1
+module chap1
 
-go 1.24.2
+go 1.24.4
